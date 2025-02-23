@@ -5,3 +5,7 @@ seaborn
 missingno
 scikit-learn
 numpy
+flask
+flask-mysql
+mysql-connector-python
+
