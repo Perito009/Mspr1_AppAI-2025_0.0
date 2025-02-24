@@ -23,7 +23,7 @@ L'application Mspr1_App_Covid19 offre une interface conviviale pour explorer et 
 ### Étapes d'installation
 
 1. Clonez le dépôt :
-git clone http://github.com/perito009/Mspr1_App_Covid19.git
+git clone http://github.com/....
 cd Mspr1_App_Covid19 ( après vous pouvez changer ce Nom de projet si vous le souhaité)
 
 
